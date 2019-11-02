@@ -1,0 +1,27 @@
+create a new repository
+maak een nieuwe map, open deze map en voer 
+
+git
+init
+
+uit om een nieuwe repository aan te maken. 
+
+
+
+checkout a repository
+haal een repository lokaal binnen
+
+git
+clone /path/to/repository
+
+wanneer je git server niet
+lokaal staat
+
+zal je volgende moeten uitvoeren
+
+git
+clone gebruikersnaam@host:/path/to/repository 
+
+
+
+
